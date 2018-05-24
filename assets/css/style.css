@@ -1,0 +1,61 @@
+/* .scroll {
+  height:200px;
+  overflow-y: scroll;
+} */
+
+.d-flex {
+  border: 3px solid black;
+}
+
+body {
+  background-color: #6a9fbd;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.ml9 {
+  position: relative;
+  font-weight: 200;
+  font-size: 4em;
+}
+
+.ml9 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+
+.ml9 .letter {
+  transform-origin: 50% 100%;
+  display: inline-block;
+  line-height: 1em;
+}
+
+.lyrics {
+  margin-top: 30px;
+  width: 600px;
+  height: 400px;
+}
+
+.card {
+  display: inline-block;
+  width: 17rem;
+}
+
+.video-box {
+  padding-top: 20px;
+}
+
+#bottom-row {
+  padding-top: 20px;
+}
+
+#upload-video {
+  margin-right: 10px;
+}
